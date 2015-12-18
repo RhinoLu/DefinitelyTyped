@@ -49,6 +49,7 @@ declare module YT {
         showinfo?: number;
 		start?: number;
         theme?: string;
+        wmode?: string;
     }
 
     export interface PlayerOptions {
